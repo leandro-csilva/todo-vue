@@ -1,11 +1,10 @@
 {
   "name": "todo-vue",
   "version": "0.0.0",
-  "private": false,
+  "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prebuild": "npm install",
     "build": "vite build",
     "preview": "vite preview"
   },
